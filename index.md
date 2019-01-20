@@ -32,7 +32,7 @@ October 2016 - April 2017
 - Android development and software design in four different projects.  
 - Firebase platform products integration to mobile apps.  
 
-**DevOps Engineer:** _Digital Geko/Firelay_
+**DevOps Engineer:** _Digital Geko/Firelay_  
 April 2017 - June 2017
 
 - Web services development and scription in Python and bash.  
