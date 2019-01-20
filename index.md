@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# Aldo Gatica
 
-You can use the [editor on GitHub](https://github.com/AldoGatica123/aldogatica123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_aldogatica123.github.io_  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PERSONAL DETAILS
 
-### Markdown
+**Website:** aldogatica123.github.io  
+**E-mail:** aldogatica123@gmail.com  
+**Phone Number:** +502 3126 4249  
+**Date of Birth:** February 8th, 1995  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### EDUCATION
 
-```markdown
-Syntax highlighted code block
+**B.S in Computer Science and Information Systems:** _Universidad Rafael Landívar, Guatemala_  
+January 2013 - present
 
-# Header 1
-## Header 2
-### Header 3
+### EXPERIENCE
 
-- Bulleted
-- List
+**Web Developer:** _Cítrico Web_  
+January 2015 - December 2015
 
-1. Numbered
-2. List
+- Web development and maintenance for WordPress websites.  
 
-**Bold** and _Italic_ and `Code` text
+**Android Developer:** _Koffee Time_  
+January 2016 - September 2016  
 
-[Link](url) and ![Image](src)
-```
+- Android development and software design in two different projects.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Android Developer:** _Digital Geko_  
+October 2016 - April 2017  
 
-### Jekyll Themes
+- Android development and software design in four different projects.  
+- Firebase platform products integration to mobile apps.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AldoGatica123/aldogatica123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**DevOps Engineer:** _Digital Geko/Firelay_
+April 2017 - June 2017
 
-### Support or Contact
+- Web services development and scription in Python and bash.  
+- Development of a cloud-base infrastructure in Kubernetes for Dockerized Liferay environments.  
+- Set up of various networking, monitoring and other tools for cluster management.  
+- Management of Google Cloud Platform Kubernetes clusters.  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Freelancer Developer:**  
+December 2017 - March 2018  
+
+- Design and development of a serverless application in Amazon Web Services.
+
+### SKILLS AND QUALIFICATIONS
+
+**Languages:**              _Python, Java, Go, JavaScript, HTML/CSS_  
+**Cloud Technology:**       _Amazon Web Services, Google Cloud Platform_  
+**Frameworks:**             _Flask, Django, React, Express.js_  
+**DevOps Tools:**           _Docker, Kubernetes_  
+
+### INTERESTS
+
+_I enjoy swimming at the Olympic pool of Guatemala._  
+_I like reading and following technology news and articles._   
+_Currently I am a co-organizer at Inteligencia Artificial Guatemala community group._  
+
+### LANGUAGES
+
+**Spanish:**    _Native_  
+**English:**    _Professional working proficiency_  
+**French:**     A2 Level - Elementary  
+
