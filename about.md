@@ -1,18 +1,22 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: page  
+title: About  
+permalink: /about/  
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a software engineer from Guatemala, I studied at [Universidad Rafael Landívar][url-link].
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I have mostly worked as an Android developer during my university years, but now I am more interested in newer technologies.
+I like getting involved in tech communities and I enjoy working in my  projects.
+
+Feel free to join the AI community in Guatemala on [Meetup][meetup-link] and [Facebook group][facebook-link]. Also subscribe to the [Telegram channel][telegram-link] to download useful books and other resources.
+
+Now this is my personal site, most of my projects can be found on [Github][github-link].
 
 
-[jekyll-organization]: https://github.com/jekyll
+[url-link]: http://principal.url.edu.gt/  
+[meetup-link]: https://www.meetup.com/es-ES/Inteligencia-Artificial-Guatemala/  
+[facebook-link]: https://www.facebook.com/groups/2128669620689233/  
+[telegram-link]: https://t.me/iaguate  
+[github-link]: http://github.com/aldogatica123  
