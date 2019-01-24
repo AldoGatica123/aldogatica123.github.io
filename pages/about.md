@@ -1,8 +1,9 @@
 ---
 layout: page  
-title: About  
+title: About Me  
 permalink: /about/  
 ---
+
 
 
 I am a software engineer from Guatemala, I studied at [Universidad Rafael Landívar][url-link].

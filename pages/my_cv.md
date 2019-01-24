@@ -65,7 +65,7 @@ _Currently I am a co-organizer at Inteligencia Artificial Guatemala community gr
 
 **Spanish:**    _Native_  
 **English:**    _Professional working proficiency_  
-**French:**     A2 Level - Elementary  
+**French:**     _A2 Level - Elementary_  
 
 
 
