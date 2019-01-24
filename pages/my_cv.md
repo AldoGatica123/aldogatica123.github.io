@@ -68,5 +68,6 @@ _Currently I am a co-organizer at Inteligencia Artificial Guatemala community gr
 **French:**     _A2 Level - Elementary_  
 
 
+[_PDF download_][pdf-link]
 
-
+[pdf-link]: /assets/files/CV_2019.pdf
