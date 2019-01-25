@@ -3,7 +3,6 @@ layout: post
 date: 2019-01-22  
 categories: general  
 title: "Blog Intro"  
-description: "whatevs"
 ---
 Welcome to my blog!
 
