@@ -19,7 +19,7 @@ and simple web scrappers.
 
 I have decided I **will** follow Zach Miller's advice so I can finally learn Machine Learning!
 
-![Roadmap](../assets/images/HTLML.png)
+![Roadmap](https://github.com/AldoGatica123/aldogatica123.github.io/blob/master/assets/images/HTLML.png?raw=true)
 
 ### What to do
 
