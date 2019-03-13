@@ -1,6 +1,6 @@
 ---
 layout: post  
-date: 2019-03-8  
+date: 2019-03-12  
 categories: coding  
 title: "Using AWS Chalice with Travis"  
 ---
@@ -47,7 +47,7 @@ sucks and I want to see where can I improve.
 To make Travis run tests after fixing the problems I first encountered I had to store the AWS credentials into
 environment variables.  
 
-_What I didn't know was that Travis has two different platforms!_  
+___What I didn't know was that Travis has two different platforms!___  
 https://travis-ci.org/ and https://travis-ci.com/
 _I was struggling cause when I needed to secure my credentials using_ `travis encrypt` _I was using the one that ends with .org_  
 What I had to do to encrypt in the .com Travis was `travis login --pro` before encrypting!
@@ -69,7 +69,7 @@ script:
 
 After making these changes I got my Travis running the tests in the QA stage!
 
-#### But it still didn't work in AWS!
+#### Manage roles instead of credentials!
 _The issue here is that `chalice deploy` wasn't working because it couldn't find the environment variables.
 What I learned was that lambdas must **not** contain the `AWS_ACCESS_KEY_ID` or `AWS_SECRET_ACCESS_KEY` 
 since they are reserved and the AWS execution role should provide them._ ([source](aws-env-var-link))  
@@ -85,6 +85,12 @@ _After tweaking the IAM roles, I changed the chalice qa and production stage so 
     }
 ```
 
+#### Avoid creating multiple API-Gateway endpoints
+_I didn't have my `.chalice/deployed` directory in my commit files and Travis was doing multiple endpoints while
+the project needed to be deployed on the same I had created.
+Also I had to make some changes to the AWS policies to work in DynamoDB and API Gateway_
+
+I will still be working on this project, it will be documented in later entries.
 
 
 [repo-link]: https://github.com/AldoGatica123/edent-contacts  
