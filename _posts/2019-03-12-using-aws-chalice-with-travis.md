@@ -6,12 +6,12 @@ title: "Using AWS Chalice with Travis"
 ---
 
 # eDent Backend
-I will be sharing my experience while working a project using [AWS Chalice](chalice-link), 
+I will be sharing my experience while working a project using [AWS Chalice][chalice-link], 
 I needed a RESTful API to save contact info for some patients in Python.
-The code is [here](repo-link).  
+The code is [here][repo-link].  
 
 What interested me the most of Chalice was that I can locally run my lambdas while using 
-DynamoDB and S3 easily and the [workshops](workshop-link)looked pretty good.  
+DynamoDB and S3 easily and the [workshops][workshop-link] looked pretty good.  
 
 ## Pytest
 It's also my first time writing tests so I watched some tutorials on Udemy about pytest. 
@@ -72,7 +72,7 @@ After making these changes I got my Travis running the tests in the QA stage!
 #### Manage roles instead of credentials!
 _The issue here is that `chalice deploy` wasn't working because it couldn't find the environment variables.
 What I learned was that lambdas must **not** contain the `AWS_ACCESS_KEY_ID` or `AWS_SECRET_ACCESS_KEY` 
-since they are reserved and the AWS execution role should provide them._ ([source](aws-env-var-link))  
+since they are reserved and the AWS execution role should provide them._ ([source][aws-env-var-link])  
 _After tweaking the IAM roles, I changed the chalice qa and production stage so they use their roles._
 ```
 "qa": {
@@ -87,7 +87,7 @@ _After tweaking the IAM roles, I changed the chalice qa and production stage so 
 
 #### Avoid creating multiple API-Gateway endpoints
 _I didn't have my `.chalice/deployed` directory in my commit files and Travis was doing multiple endpoints while
-the project needed to be deployed on the same I had created.
+the project needed to be deployed on the same I had created. [Solution found here][chalice-issue-link]  
 Also I had to make some changes to the AWS policies to work in DynamoDB and API Gateway_
 
 I will still be working on this project, it will be documented in later entries.
@@ -97,3 +97,4 @@ I will still be working on this project, it will be documented in later entries.
 [workshop-link]: https://chalice-workshop.readthedocs.io/en/latest/  
 [chalice-link]: https://chalice.readthedocs.io/en/latest/  
 [aws-env-var-link]: https://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html#lambda-environment-variables  
+[chalice-issue-link]:  https://github.com/aws/chalice/issues/915
