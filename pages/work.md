@@ -10,7 +10,8 @@ permalink: /work/
 [**React Wishlist:**][proj2]  React CRUD application used to save a list of desired presents.  
 [**Dijsktra:**][proj3]  Flask web app for implementing Dijsktra's shortest path algorithm.  
 [**Wishlist Backend:**][proj4]  Express.js backend for serving a REST API  and saving to a MongoDB and Redis.  
-[**eDent Lambdas:**][proj5]  Python functions used for saving client's contact information in DynamoDB.    
+[**eDent Contacts:**][proj5]  [Chalice](https://chalice.readthedocs.io/en/latest/) used for saving client's contact information in DynamoDB.  
+[**eDent React:**][proj6]  React web application using Material-UI for managing patients and day-to-day operations. [Live Demo](https://aldogatica123.github.io/edent-react/)  
 
 # Machine Learning
 [**Bag of Words:**][mlpr1]  Bag of Words classification using Naive Bayes in Java.  
@@ -20,7 +21,7 @@ permalink: /work/
 
 # Notes
 [**Script Tips:**][note1]  Scripts and useful coding tips (mostly Python and Go).  
-[**Coding Patterns:**][note2]  OOP coding patterns notes.  
+[**Coding Patterns:**][note2]  OOP coding patterns notes (mostly Java).  
 
 
 
@@ -29,7 +30,8 @@ permalink: /work/
 [proj2]: https://github.com/AldoGatica123/react_wishlist
 [proj3]: https://github.com/AldoGatica123/dijkstra
 [proj4]: https://github.com/AldoGatica123/api_wishlist
-[proj5]: https://github.com/AldoGatica123/edent_lambdas
+[proj5]: https://github.com/AldoGatica123/edent-contacts
+[proj6]: https://github.com/AldoGatica123/edent-react  
 
 [mlpr1]: https://github.com/AldoGatica123/bag_of_words
 
