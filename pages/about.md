@@ -4,12 +4,10 @@ title: About Me
 permalink: /about/  
 ---
 
+My name is Aldo Gatica, I am a software engineer from Guatemala, I studied at [Universidad Rafael Landívar][url-link].
 
-
-I am a software engineer from Guatemala, I studied at [Universidad Rafael Landívar][url-link].
-
-I have mostly worked as an Android developer during my university years, but now I am more interested in newer technologies.
-I like getting involved in tech communities and I enjoy working in my  projects.
+I have mostly worked as a Web and Android developer during my university years, but now I am more interested in newer technologies.
+I like getting involved in tech communities and I enjoy working in my  projects, mostly in Cloud Technologies and Machine Learning.
 
 Feel free to join the AI community in Guatemala on [Meetup][meetup-link] and [Facebook group][facebook-link]. Also subscribe to the [Telegram channel][telegram-link] to download useful books and other resources.
 

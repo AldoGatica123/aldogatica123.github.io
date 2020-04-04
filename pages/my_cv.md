@@ -19,21 +19,16 @@ January 2013 - present
 
 ### EXPERIENCE
 
-**Web Developer:** _Cítrico Web_  
-January 2015 - December 2015
+**Automation Analyst:**  
+May 2019 - Present
 
-- Web development and maintenance for WordPress websites.  
+- Design and development of chatbots using DialogFlow with Google Cloud Platform and Microsoft Azure.
+- Process analysis of multiple automation projects in UiPath.
 
-**Android Developer:** _Koffee Time_  
-January 2016 - September 2016  
+**Freelancer Developer:**  
+December 2017 - March 2018  
 
-- Android development and software design in two different projects.  
-
-**Android Developer:** _Digital Geko_  
-October 2016 - April 2017  
-
-- Android development and software design in four different projects.  
-- Firebase platform products integration to mobile apps.  
+- Design and development of a serverless application in React and Amazon Web Services.
 
 **DevOps Engineer:** _Digital Geko/Firelay_  
 April 2017 - June 2017
@@ -43,23 +38,32 @@ April 2017 - June 2017
 - Set up of various networking, monitoring and other tools for cluster management.  
 - Management of Google Cloud Platform Kubernetes clusters.  
 
-**Freelancer Developer:**  
-December 2017 - March 2018  
+**Android Developer:** _Digital Geko_  
+October 2016 - April 2017  
 
-- Design and development of a serverless application in Amazon Web Services.
+- Android development and software design in four different projects.  
+- Firebase platform products integration to mobile apps.  
+
+
+**Android Developer:** _Koffee Time_  
+January 2016 - September 2016  
+
+- Android development and software design in two different projects.  
 
 ### SKILLS AND QUALIFICATIONS
 
-**Languages:**              _Python, Java, Go, JavaScript, HTML/CSS_  
-**Cloud Technology:**       _Amazon Web Services, Google Cloud Platform_  
-**Frameworks:**             _Flask, Django, React, Express.js_  
+**Languages:**              _Java, Python, JavaScript, HTML/CSS, Go_  
+**Cloud Technology:**       _Amazon Web Services, Google Cloud Platform, Microsoft Azure_  
+**Frameworks:**             _React, Flask, Django_  
 **DevOps Tools:**           _Docker, Kubernetes_  
+**Runtime Environments:**   _JRE 8, Node.js_  
+**Automation Tools:**       _UiPath, Workfusion, BluePrism_  
 
 ### INTERESTS
 
-_I enjoy swimming at the Olympic pool of Guatemala._  
+_I enjoy swimming and working out frequently._  
 _I like reading and following technology news and articles._   
-_Currently I am a co-organizer at Inteligencia Artificial Guatemala community group._  
+_Currently I am an active participant on Guatemala technology community groups._  
 
 ### LANGUAGES
 
@@ -70,4 +74,4 @@ _Currently I am a co-organizer at Inteligencia Artificial Guatemala community gr
 
 [_PDF download_][pdf-link]
 
-[pdf-link]: /assets/files/CV_2019.pdf
+[pdf-link]: /assets/files/CV_2020_en.pdf
