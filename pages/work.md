@@ -25,9 +25,8 @@ permalink: /work/
 [**Bind Mount:**][cont1]  Python csv parser using a bind mount.
 
 # Notes
+[**Python Playground][note1] Snippets for easy Python automation.  
 [**Coding Tips:**][note2]  Coding tips gathered across projects.  
-
-**Cambiar a coding tips  
 
 
 
@@ -44,5 +43,5 @@ permalink: /work/
 
 [cont1]: https://github.com/AldoGatica123/csv_parser
 
-[note1]: https://github.com/AldoGatica123/scripts_tips
+[note1]: https://github.com/AldoGatica123/python_playground
 [note2]: https://github.com/AldoGatica123/coding_tips
