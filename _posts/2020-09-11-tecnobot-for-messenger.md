@@ -30,7 +30,9 @@ I evaluated the possibility of making validations while capturing data from the 
 I decided to remove the use of Dialogflow and use the Facebook Messenger SDK and code the data extraction from the ground up.
 The Facebook Developers page provides some bot samples where we can test the full functionality of a Messenger bot.
 I used [this](https://www.messenger.com/t/OriginalCoastClothing) chatbot as a sample, here is the full
-[documentation](https://developers.facebook.com/docs/messenger-platform/getting-started/sample-apps) of the sample projects.  
+[documentation](https://developers.facebook.com/docs/messenger-platform/getting-started/sample-apps) of the sample projects. 
+This project is available [here](https://github.com/AldoGatica123/tecnobot_messenger)  
+
 
 The conversation flow needed to change for this kind of implementation, since there is not a way to persist the conversation
 information in the Lambda execution, I decided to persist the conversation in a DynamoDB table using each property as a 
@@ -44,13 +46,21 @@ and ice-breakers to the start page of the chat.
 
 ### Amplify Backend Deployments
 For the deployment of the Messenger application I used Amplify because of the convenience of automating the creation of 
-resources. The resources used for the project were a Lambda function, an API Gateway endpoint and a DynamoDB table.
+resources. The resources used for the project were a Lambda function, an API Gateway endpoint and a DynamoDB table.  
+
 <img src="https://user-images.githubusercontent.com/10179447/93031028-df8b0500-f5e4-11ea-9f1b-327ea561c0af.png?raw=true" width="350" height="100">
 
 A very useful resource for starting this project was [this](https://youtu.be/aJlvJsdVTLU) video.  
 
+## Tecnobot
 
+The second part of the project was developed by another person, his blog is [this](http://blog.dromero.xyz/).
+The purpose of this automation is to validate payments made in Págalo platform and create the marketing campaigns in Google 
+Adwords. 
 
+This is the high level architecture of the automation and the code is [here](https://github.com/AldoGatica123/tecnobot).
+
+<img src="https://github.com/davidromero/tecnobot/blob/master/docs/tecnobot.png?raw=true" width="558" height="507"> 
 
 
 
