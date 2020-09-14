@@ -17,8 +17,8 @@ permalink: /work/
 [**Wishlist Backend:**][proj098]  Express.js backend for serving a REST API  and saving to a MongoDB and Redis.  
 [**Dijsktra:**][proj097]  Flask web app for implementing Dijsktra's shortest path algorithm.  
 
-#Chatbots
-[**Tecnobot**][chat1] Messenger chatbot made for getting conversation information and creating marketing campaigns. 
+# Chatbots
+[**Tecnobot Messenger**][chat1] Chatbot made for getting conversation information and creating marketing campaigns. 
 
 # Machine Learning
 [**Bag of Words:**][mlpr1]  Bag of Words classification using Naive Bayes in Java.  
