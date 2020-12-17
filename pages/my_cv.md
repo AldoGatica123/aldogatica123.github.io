@@ -22,6 +22,8 @@ January 2013 - present
 **Automation Analyst:**  
 May 2019 - Present
 
+- Implementation of new technologies for automations for the Guatemala RPA centre.  
+- Analysis, design and process development for automations in UiPath for remote clients.   
 - Design and development of chatbots using DialogFlow with Google Cloud Platform and Microsoft Azure.
 - Process analysis of multiple automation projects in UiPath.
 
@@ -52,12 +54,12 @@ January 2016 - September 2016
 
 ### SKILLS AND QUALIFICATIONS
 
-**Languages:**              _Java, Python, JavaScript, HTML/CSS, Go_  
+**Languages:**              _Java SE, Python, JavaScript, HTML/CSS, Go_  
 **Cloud Technology:**       _Amazon Web Services, Google Cloud Platform, Microsoft Azure_  
-**Frameworks:**             _React, Flask, Django_  
+**Frameworks:**             _ReactJS, Flask, Django_  
 **DevOps Tools:**           _Docker, Kubernetes_  
 **Runtime Environments:**   _JRE 8, Node.js_  
-**Automation Tools:**       _UiPath, Workfusion, BluePrism_  
+**Automation Tools:**       _UiPath, Workfusion, BluePrism, Celonis_  
 
 ### INTERESTS
 
@@ -70,8 +72,9 @@ _Currently I am an active participant on Guatemala technology community groups._
 **Spanish:**    _Native_  
 **English:**    _Professional working proficiency_  
 **French:**     _A2 Level - Elementary_  
+**Russian:**    _A1 Level - Elementary_
 
 
 [_PDF download_][pdf-link]
 
-[pdf-link]: /assets/files/CV_2020_en.pdf
+[pdf-link]: /assets/files/CV_2021_en.pdf
